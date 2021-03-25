@@ -1,3 +1,3 @@
 # tinkBranch
 
-This branch has an index.html file. Nothing More...
+This is the second branch.  It contains an html and css.
